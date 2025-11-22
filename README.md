@@ -2,6 +2,9 @@
 
 **From-scratch PyTorch Transformer encoder** implementation (based on *Attention is All You Need*) with a Streamlit demo showcasing:
 
+<img width="1681" height="770" alt="Screenshot 2025-11-22 153022" src="https://github.com/user-attachments/assets/8c8cdf87-b6b1-4b27-a087-ec7a22a9adda" />
+
+
 - ✅ **Extract Keywords** — keyphrase extraction using BIO-trained encoder
 - ✅ **Attention Heatmap Viewer** — visualize self-attention per head and layer
 - ✅ **NER Demo** — token-level BIO predictions (used for highlighting)
@@ -20,6 +23,15 @@ This repository implements Multi-Head Attention, Positional Encoding, Feed-Forwa
 - Inference-time heuristics (no retraining required) to clean and merge subwords, POS filtering, and strict BIO decoding.
 
 ---
+
+<img width="1509" height="989" alt="Screenshot 2025-11-22 153147" src="https://github.com/user-attachments/assets/28616f56-9c6f-4d43-bd7a-d7195d8c9af4" />
+
+<img width="1488" height="1015" alt="Screenshot 2025-11-22 153339" src="https://github.com/user-attachments/assets/28330169-a2b1-4ce7-993e-1b0197e1defa" />
+
+<img width="802" height="457" alt="Screenshot 2025-11-22 153217" src="https://github.com/user-attachments/assets/66471f1e-095d-4b79-90cb-f5112b9305c3" />
+
+<img width="1488" height="1015" alt="Screenshot 2025-11-22 153339" src="https://github.com/user-attachments/assets/88f7088e-f1c0-4475-8563-eb24fead6b82" />
+
 
 ## How it was built / notes
 
