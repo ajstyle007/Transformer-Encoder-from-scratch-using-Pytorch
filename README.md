@@ -35,14 +35,25 @@ This repository implements Multi-Head Attention, Positional Encoding, Feed-Forwa
       <img src="https://github.com/user-attachments/assets/28616f56-9c6f-4d43-bd7a-d7195d8c9af4" width="400">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/28330169-a2b1-4ce7-993e-1b0197e1defa" width="400">
+      <img src="https://github.com/user-attachments/assets/66471f1e-095d-4b79-90cb-f5112b9305c3" width="400">
     </td>
   </tr>
 </table>
 
-<img width="802" height="457" alt="Screenshot 2025-11-22 153217" src="https://github.com/user-attachments/assets/66471f1e-095d-4b79-90cb-f5112b9305c3" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/28330169-a2b1-4ce7-993e-1b0197e1defa" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/88f7088e-f1c0-4475-8563-eb24fead6b82" width="400">
+    </td>
+  </tr>
+</table>
 
-<img width="1488" height="1015" alt="Screenshot 2025-11-22 153339" src="https://github.com/user-attachments/assets/88f7088e-f1c0-4475-8563-eb24fead6b82" />
+<!-- <img width="802" height="457" alt="Screenshot 2025-11-22 153217" src="https://github.com/user-attachments/assets/66471f1e-095d-4b79-90cb-f5112b9305c3" />
+
+<img width="1488" height="1015" alt="Screenshot 2025-11-22 153339" src="https://github.com/user-attachments/assets/88f7088e-f1c0-4475-8563-eb24fead6b82" /> -->
 
 
 ## How it was built / notes
