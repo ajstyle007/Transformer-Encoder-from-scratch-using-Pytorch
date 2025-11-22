@@ -2,9 +2,9 @@
 
 **From-scratch PyTorch Transformer encoder** implementation (based on *Attention is All You Need*) with a Streamlit demo showcasing:
 
-<div style="border:4px solid #00bcd4; border-radius:12px; padding:8px; display:inline-block;">
-  <img src="https://github.com/user-attachments/assets/8c8cdf87-b6b1-4b27-a087-ec7a22a9adda" width="100%">
-</div>
+
+<img width="1681" height="770" alt="Screenshot 2025-11-22 153022" src="https://github.com/user-attachments/assets/a7ad6d1f-399a-46ec-b4bd-ed2feb4056e9" />
+
 
 - ✅ **Extract Keywords** — keyphrase extraction using BIO-trained encoder
 - ✅ **Attention Heatmap Viewer** — visualize self-attention per head and layer
