@@ -2,7 +2,8 @@
 
 **From-scratch PyTorch Transformer encoder** implementation (based on *Attention is All You Need*) with a Streamlit demo showcasing:
 
-<div style="border: 3px solid #444; padding: 10px; border-radius: 10px; display: inline-block;">
+
+<div style="padding:10px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3); display:inline-block;">
   <img src="https://github.com/user-attachments/assets/8c8cdf87-b6b1-4b27-a087-ec7a22a9adda" width="100%">
 </div>
 
