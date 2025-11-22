@@ -2,7 +2,9 @@
 
 **From-scratch PyTorch Transformer encoder** implementation (based on *Attention is All You Need*) with a Streamlit demo showcasing:
 
-<img width="1681" height="770" alt="Screenshot 2025-11-22 153022" src="https://github.com/user-attachments/assets/8c8cdf87-b6b1-4b27-a087-ec7a22a9adda" />
+<div style="border: 3px solid #444; padding: 10px; border-radius: 10px; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/8c8cdf87-b6b1-4b27-a087-ec7a22a9adda" width="100%">
+</div>
 
 
 - ✅ **Extract Keywords** — keyphrase extraction using BIO-trained encoder
